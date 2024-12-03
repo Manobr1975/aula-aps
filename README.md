@@ -1,3 +1,3 @@
 # aula-aps
 
-Projeto Inicial voltdo para aprendizado de GIT
+Projeto Inicial voltado para aprendizado de GIT
