@@ -1,0 +1,15 @@
+{
+  "name": "aula-aps",
+  "version": "1.0.0",
+  "description": "Projeto Inicial voltado para aprendizado de GIT",
+  "main": "teste1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.0.1"
+  }
+}
